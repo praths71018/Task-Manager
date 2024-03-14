@@ -1,0 +1,21 @@
+ Pratham
+SL_NO	TASK		STATUS QUO
+1	Playing        	✗
+2	Studying       	✗
+3	Eating         	✗
+SL_NO	TASK		STATUS QUO
+1	Playing        	✔︎
+2	Studying       	✔︎
+3	Eating         	✗
+ Ranjive
+SL_NO	TASK		STATUS QUO
+1	Sleeping       	✗
+2	Gym            	✗
+SL_NO	TASK		STATUS QUO
+1	Sleeping       	✔︎
+2	Gym            	✔︎
+ Pratham
+SL_NO	TASK		STATUS QUO
+1	Playing        	✔︎
+2	Studying       	✔︎
+3	Eating         	✗
