@@ -12,6 +12,8 @@ The Task Manager allows users to:
 - Mark tasks as completed
 - Remove tasks
 
+The program is built using all OOPs and other concepts in C++
+
 ## Compilation
 
 To compile the program, run the following command in the terminal:
